@@ -1,2 +1,6 @@
-language: objective-c
-osx_image: xcode8.2
+language: node_js
+node_js:
+  - "6"
+  - "6.1"
+  - "5.11"
+  - "5.1"
